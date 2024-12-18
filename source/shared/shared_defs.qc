@@ -255,6 +255,8 @@ vector offset;
 		.float spawn_offset;	//
 		.float health;
 		.string target;
+		float health_target;
+		float armor_target;
 	#endif
 
 	#ifdef SSQC

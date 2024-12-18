@@ -254,8 +254,7 @@ float() predraw_weapon =
 	self.angles = self.owner.angles;
 };
 
-float health_target;
-float armor_target;
+
 .float armorvalue;
 void(float vwidth, float vheight, float notmenu) CSQC_UpdateView =
 {
