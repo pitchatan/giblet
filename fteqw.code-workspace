@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "source"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.dat": true,
+			"**/*.exe": true,
+			"**/*.lno": true,
+			"**/*.json": true,
+			"**/*.code-workspace": true,
+			"*.code-workspace": true,
+		}
+	}
+}

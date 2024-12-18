@@ -1,0 +1,26 @@
+../../../csprogs.dat
+#define CSQC
+../fteextensions.qc
+../shared/shared_defs.qc
+../shared/shared.qc
+../shared/ai/ai_defs.qc
+../client/functions/cl_functions_dummy.qc
+../client/functions/cl_functions_gizmo_add.qc
+../client/functions/cl_functions_entity.qc
+../client/render/cl_render_gizmo.qc
+
+../game/boilerplate/g_func.qc
+../game/boilerplate/g_info.qc
+../game/boilerplate/g_push.qc
+../game/boilerplate/g_target.qc
+../game/boilerplate/g_trigger.qc
+../game/boilerplate/g_think.qc
+../game/boilerplate/g_misc.qc
+../game/boilerplate/g_touch.qc
+
+../game/g_functions_weapons.qc
+../game/g_input_calls.qc
+
+../client/cl_predraws.qc
+../client/cl_main.qc
+#undef CSQC

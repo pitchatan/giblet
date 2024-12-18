@@ -1,0 +1,22 @@
+../../../progs.dat
+#define SSQC
+../fteextensions.qc
+../shared/shared_defs.qc
+../shared/shared.qc
+../shared/ai/ai_defs.qc
+
+../game/boilerplate/g_func.qc
+../game/boilerplate/g_info.qc
+../game/boilerplate/g_push.qc
+../game/boilerplate/g_target.qc
+../game/boilerplate/g_trigger.qc
+../game/boilerplate/g_think.qc
+../game/boilerplate/g_misc.qc
+../game/boilerplate/g_touch.qc
+
+../game/g_functions_weapons.qc
+../game/g_input_calls.qc
+
+../server/functions/sv_network_sends.qc
+../server/sv_main.qc
+#undef SSQC

@@ -1,0 +1,9 @@
+{
+  "name": "Extension",
+  "type": "extensionHost",
+  "request": "launch",
+  "runtimeExecutable": "../../fteqw.exe",
+  "args": [
+      "+map scifi"
+  ],
+}
